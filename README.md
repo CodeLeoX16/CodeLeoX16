@@ -1,26 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20👋%20I'm%20CodeLeoX16&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20👋%20I'm%20CodeLeoX16&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff" alt="header" />
 </div>
 
 <div align="center">
-    
-  ### 💫 About Me
-  
-  🚀 Passionate Developer | 🎯 Problem Solver | 💡 Tech Enthusiast
-  
-  🔭 Currently working on exciting projects  
-  🌱 Always learning and exploring new technologies  
-  💬 Ask me about coding, development, and tech  
-  ⚡ Fun fact: I turn ☕ into code!
-  
+
+### 💫 About Me
+
+🚀 Passionate Developer | 🎯 Problem Solver | 💡 Tech Enthusiast
+
+🔭 Currently working on exciting projects  
+🌱 Always learning and exploring new technologies  
+💬 Ask me about coding, development, and tech  
+⚡ Fun fact: I turn ☕ into code!
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ## 🛠️ Tech Stack & Tools
-  
+
+## 🛠️ Tech Stack & Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white)
@@ -43,27 +43,25 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-  
- 
 </div>
 
 ---
 
 <div align="center">
-  
-  ## 📊 GitHub Stats
-  
- 
-</div>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeLeoX16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeLeoX16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+## 📊 GitHub Stats
+
 </div>
 
 <div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeLeoX16&theme=tokyonight&hide_border=true&background=0D1117)
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeLeoX16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeLeoX16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages" />
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeLeoX16&theme=tokyonight&hide_border=true&background=0D1117)
+
 </div>
 
 ---
@@ -71,53 +69,51 @@
 <div align="center">
 
 ## 🏆 GitHub Trophies
-<img
-  src="https://github-profile-trophy.vercel.app/?username=CodeLeoX16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&row=1&v=1"
-  alt="GitHub profile trophies"
-/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=CodeLeoX16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&v=1" alt="github trophies" />
 
 </div>
 
 ---
 
 <div align="center">
-  
-  ## 📈 Activity Graph
-  
-  [![CodeLeoX16's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeLeoX16&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/CodeLeoX16)
-  
+
+## 📈 Activity Graph
+
+[![CodeLeoX16's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeLeoX16&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/CodeLeoX16)
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ## 🌐 Connect with Me
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeLeoX16)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnath-bhunia-3b300b328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codeleox16somnath.netlify.app/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somnath.bhunia1603@example.com)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SOMNATH420/)
-  
+
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeLeoX16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnath-bhunia-3b300b328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codeleox16somnath.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somnath.bhunia1603@example.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SOMNATH420/)
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💭 Random Dev Quote
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=CodeLeoX16&color=blueviolet&style=for-the-badge)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer"/>
-  
+
+![Profile Views](https://komarev.com/ghpvc/?username=CodeLeoX16&color=blueviolet&style=for-the-badge)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
+
 </div>
