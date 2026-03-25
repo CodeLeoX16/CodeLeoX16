@@ -43,8 +43,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
- 
   
+ 
 </div>
 
 ---
@@ -60,8 +60,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeLeoX16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
-
-
 <div align="center">
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeLeoX16&theme=tokyonight&hide_border=true&background=0D1117)
@@ -73,9 +71,10 @@
 <div align="center">
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=CodeLeoX16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&v=1" />
-
-
+<img
+  src="https://github-profile-trophy.vercel.app/?username=CodeLeoX16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&row=1&v=1"
+  alt="GitHub profile trophies"
+/>
 
 </div>
 
@@ -100,7 +99,6 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codeleox16somnath.netlify.app/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somnath.bhunia1603@example.com)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SOMNATH420/)
-
   
 </div>
 
