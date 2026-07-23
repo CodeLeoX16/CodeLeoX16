@@ -32,7 +32,7 @@
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -57,6 +57,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeLeoX16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeLeoX16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages" />
 </div>
+
+<br />
 
 <div align="center">
 
@@ -92,7 +94,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeLeoX16)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnath-bhunia-3b300b328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codeleox16somnath.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codeleox16somnath.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somnath.bhunia1603@example.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SOMNATH420/)
 
@@ -104,7 +106,7 @@
 
 ### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -113,6 +115,8 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeLeoX16&color=blueviolet&style=for-the-badge)
+
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
 
