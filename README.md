@@ -7,8 +7,8 @@
 ### 🚀 Computer Science Engineering Student | Data Science & Full-Stack / Backend Engineer
 
 [![LeetCode Rating](https://img.shields.io/badge/LeetCode-1700%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SOMNATH420/)
-[![Codeforces Rating](https://img.shields.io/badge/Codeforces-1350%20(Pupil)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![Problems Solved](https://img.shields.io/badge/DSA%20Problems-800%2B%20Solved-FF6F00?style=for-the-badge&logo=codolio&logoColor=white)](https://codolio.com/)
+
+[![Problems Solved](https://img.shields.io/badge/DSA%20Problems-1000%2B%20Solved-FF6F00?style=for-the-badge&logo=codolio&logoColor=white)]([https://codolio.com/](https://codolio.com/profile/CodeLeoX16))
 [![CGPA](https://img.shields.io/badge/CGPA-9.0%2F10.0-4CAF50?style=for-the-badge&logo=googleacademic&logoColor=white)](#)
 
 </div>
@@ -131,7 +131,6 @@
 ## 🏆 Key Achievements & Competitive Programming
 
 ```text
- 💻 Algorithmic Mastery : 800+ Problems Solved (LeetCode, Codeforces, GeeksforGeeks)
+ 💻 Algorithmic Mastery : 1000+ Problems Solved (LeetCode, Codeforces, GeeksforGeeks)
  🌟 LeetCode Rating    : 1700+ Rating | Active Contest Participant
- 🎯 Codeforces Rating  : 1350 Rating (Pupil)
  🎓 Academic Excellence: 9.0 / 10.0 CGPA | B.Tech CSE (Data Science)
